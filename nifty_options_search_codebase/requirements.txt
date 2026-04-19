@@ -1,0 +1,12 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+pydantic>=2.0.0
+pyarrow>=12.0.0
+
+# LLM (optional – system works without it via fallback proposers)
+ollama>=0.4.0
+
+# Testing
+pytest>=7.0.0
